@@ -1,0 +1,22 @@
+{
+    "name": "gulp_tutorial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "gulp",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.23.0",
+        "fancy-log": "^2.0.0",
+        "gulp": "^4.0.2",
+        "webpack-stream": "^7.0.0"
+    },
+    "dependencies": {
+        "ts-loader": "^9.3.1"
+    }
+}
